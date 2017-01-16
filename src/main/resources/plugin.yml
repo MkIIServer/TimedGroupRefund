@@ -11,3 +11,9 @@ commands:
   rgwf:
     description: Remove group with refund.
     usage: /rgwf <user> <group> (-s)
+    permission: timedgrouprefund.use
+    
+permissions:
+  timedgrouprefund.use:
+    description: can use command /rgwf
+    default: op
