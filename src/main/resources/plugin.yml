@@ -10,4 +10,4 @@ depend: [Vault, PowerfulPerms]
 commands:
   rgwf:
     description: Remove group with refund.
-    usage: /rgwf <user> <group>
+    usage: /rgwf <user> <group> (-s)

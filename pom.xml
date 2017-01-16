@@ -6,7 +6,7 @@
     <groupId>tw.mics.spigot.plugin.timedgrouprefund</groupId>
     <artifactId>TimedGroupRefund</artifactId>
     <packaging>jar</packaging>
-    <version>0.1</version>
+    <version>1.0.0</version>
     <name>TimedGroupRefund</name>
     <url>http://mics.tw</url>
     <description>automatic calculate timed group refund value.</description>
