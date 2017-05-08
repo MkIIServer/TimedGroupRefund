@@ -5,7 +5,7 @@ description: ${project.description}
 author: Mics
 website: https://mics.tw
 
-depend: [Vault, PowerfulPerms]
+depend: [Vault, LuckPerms]
 
 commands:
   rgwf:
